@@ -12,8 +12,8 @@ export class AppComponent {
 
   // Add Data Elements
   favFlop = {
-  	title: 'Batman Begins',
-  	yearReleased: 2002,
+  	title: 'Batman and Robin',
+  	yearReleased: 1982,
   	rating: 'PG-13',
   	imdbLink: 'http://imbd.com/2312',
   	soundTrack: {
